@@ -6,14 +6,9 @@
 
 GitHub Pages を有効化後、次の URL を Play Console に登録してください。
 
-**https://yagiyusei12-a11y.github.io/kitchentimer/privacy-policy.html**
+**https://yagiyusei12-a11y.github.io/kitchentimer/privacy-policy.html**（公開済み・Play Console にこの URL を入力）
 
-### GitHub Pages の有効化
-
-1. リポジトリの **Settings** → **Pages**
-2. **Source**: Deploy from a branch
-3. **Branch**: `main`、フォルダ: **`/docs`**
-4. 保存後、数分待って上記 URL にアクセスできることを確認
+Google Play の手順一覧: [docs/PLAY_STORE_SETUP.md](docs/PLAY_STORE_SETUP.md)
 
 ## 開発
 
