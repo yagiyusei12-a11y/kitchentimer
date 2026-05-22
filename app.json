@@ -27,6 +27,9 @@
         "backgroundColor": "#1a1a2e"
       },
       "package": "com.restaurant.kitchentimer",
+      "blockedPermissions": [
+        "com.google.android.gms.permission.AD_ID"
+      ],
       "permissions": [
         "VIBRATE",
         "RECEIVE_BOOT_COMPLETED",
